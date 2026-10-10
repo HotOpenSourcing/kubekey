@@ -14,7 +14,6 @@
 *.iml
 
 # Vscode files
-.vscode
 
 # rbac and manager config for example provider
 manager_image_patch.yaml-e
@@ -37,3 +36,5 @@ tmp
 
 # Used by current object
 dist/
+config.bat
+node_modules
